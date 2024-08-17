@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Imaan</h1>
-<h3 align="center">I am a Flutter Developer.</h3>
+<h3 align="center">I am a Full Stack.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m a full-stack developer!**
+- 🌱 I’m a Full Stack Developer: Architecting robust backends with Node.js and crafting delightful UIs with Flutter.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
